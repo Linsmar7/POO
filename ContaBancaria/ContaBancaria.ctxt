@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=nome\ agencia\ numero
+comment0.target=ContaBancaria(java.lang.String,\ int,\ int)
+comment0.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ ContaBancaria\r\n
+comment1.params=nome\ agencia\ numero\ saldo
+comment1.target=ContaBancaria(java.lang.String,\ int,\ int,\ double)
+comment2.params=
+comment2.target=void\ extrato()
+comment2.text=\r\n\ Exemplo\ de\ m\u00E9todo\ -\ substitua\ este\ coment\u00E1rio\ pelo\ seu\ pr\u00F3prio\r\n\ \r\n\ @param\ \ y\ \ \ exemplo\ de\ um\ par\u00E2metro\ de\ m\u00E9todo\r\n\ @return\ \ \ \ \ a\ soma\ de\ x\ com\ y\ \r\n
+comment3.params=n
+comment3.target=void\ deposito(double)
+comment4.params=n
+comment4.target=boolean\ saque(double)
+comment5.params=
+comment5.target=boolean\ saque()
+numComments=6
