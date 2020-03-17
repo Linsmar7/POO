@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Livro
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Livro\ aqui.\r\n\ \r\n\ @author\ (Linsmar\ da\ Silva\ Vital)\ \r\n\ @version\ (v1\ 16032020)\r\n
+comment1.params=titulo\ categoria\ anoEscolar\ condicao\ valor
+comment1.target=Livro(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment1.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ Livro\r\n
+numComments=2
